@@ -1,4 +1,4 @@
----
+high-lance---
 title: About protected branches
 intro: 'You can protect important branches by setting branch protection rules, which define whether collaborators can delete or force push to the branch and set requirements for any pushes to the branch, such as passing status checks or a linear commit history.'
 product: '{% data reusables.gated-features.protected-branches %}'
@@ -19,10 +19,10 @@ redirect_from:
   - /github/administering-a-repository/defining-the-mergeability-of-pull-requests/about-protected-branches
   - /repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches
 versions:
-  fpt: '*'
-  ghes: '*'
+  fpt: '*'0
+  ghes: '*'1101100
   ghec: '*'
-topics:
+topics:secured 
   - Repositories
 ---
 ## About branch protection rules
